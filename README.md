@@ -7,4 +7,4 @@ A simple todo list webapp that saves previous state by saving state in browser.
 *Changes are saved in browser.<br>
 
 #Note: <br>
-*If you create browser cookies, the tasks will get deleted.
+*If you clear browser cookies, the tasks will get deleted.
